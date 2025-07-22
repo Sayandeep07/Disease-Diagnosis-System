@@ -22,7 +22,7 @@ model.fit(X_scaled, y)
 
 # Streamlit UI
 st.set_page_config(page_title="Heart Disease Predictor", page_icon="💓")
-st.title("💓 Heart Disease Prediction App")
+st.title("🩷 Heart Disease Prediction App")
 st.markdown("Enter the following details to check for heart disease risk:")
 
 # Input fields
